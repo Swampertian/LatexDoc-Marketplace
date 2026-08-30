@@ -1,0 +1,10 @@
+{
+  "name": "latex-doc",
+  "version": "1.0.0",
+  "description": "Scaffolds and compiles UFT/CC academic LaTeX documents using uftreport.cls",
+  "author": {
+    "name": "Swampertian"
+  },
+  "license": "MIT",
+  "keywords": ["latex", "uft", "academic", "report", "uftreport"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Personal",
+  "description": "Plugins used to personal use (mostly)",
+  "owner": {
+    "name": "Swampertian"
+  },
+  "plugins": [
+    {
+      "name": "latex-doc",
+      "description": "Scaffolds and compiles UFT/CC academic LaTeX documents using uftreport.cls",
+      "author": {
+        "name": "Swampertian"
+      },
+      "source": "./latex-doc"
+    }
+  ]
+}
